@@ -13,8 +13,12 @@ Ruby + Devkit(1,2,3) 3.0.2 - https://rubyinstaller.org/downloads/
 bundler - Use esses comandos no seu terminal dentro da pasta do projeto
 
 > gem install bundler 
+
+
 > bundle install
 
 para rodar o programa: 
 > cucumber
+
+
 > cucumber -t @CenarioCompleto
